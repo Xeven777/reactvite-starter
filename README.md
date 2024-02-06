@@ -1,3 +1,11 @@
+
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyui-%2324C8DB.svg?style=for-the-badge)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 # Vroom+ : Starter Template for Building Web Apps with ❤️
 
 Vroom+ is a minimal, yet powerful starter template for building web applications using Vite, React, Tailwind CSS, React Router, and Daisy UI. It's optimized for speed, developer experience, and SEO.
