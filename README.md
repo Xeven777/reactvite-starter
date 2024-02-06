@@ -2,7 +2,7 @@
 
 Vroom+ is a minimal, yet powerful starter template for building web applications using Vite, React, Tailwind CSS, React Router, and Daisy UI. It's optimized for speed, developer experience, and SEO.
 
-![https://imgur.com/83qlqmN.png](https://imgur.com/83qlqmNl.png)
+![https://imgur.com/83qlqmN.png](https://imgur.com/83qlqmN.png)
 
 ## Features ✨
 
