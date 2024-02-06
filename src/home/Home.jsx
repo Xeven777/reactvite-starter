@@ -1,8 +1,5 @@
 import { Link } from "react-router-dom";
 import viteLogo from "/vite.svg";
-import reactLogo from "../assets/react.svg";
-import tailwindLogo from "../assets/tailwind-css.svg";
-import reactRouterLogo from "../assets/react-router.svg";
 
 const Home = () => {
   return (
@@ -17,14 +14,14 @@ const Home = () => {
         </a>
         <a href="https://react.dev/" target="_blank" rel="noreferrer">
           <img
-            src={reactLogo}
+            src="https://www.svgrepo.com/show/354259/react.svg"
             className="hover:scale-105 transition-all md:w-32 w-20 hover:drop-shadow-lg"
-            alt="Vite logo"
+            alt="React logo"
           />
         </a>
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
           <img
-            src={tailwindLogo}
+            src="https://img.icons8.com/color/96/tailwindcss.png"
             className="hover:scale-105 transition-all md:w-32 w-20 hover:drop-shadow-lg"
             alt="Vite logo"
           />
@@ -35,7 +32,7 @@ const Home = () => {
           rel="noreferrer"
         >
           <img
-            src={reactRouterLogo}
+            src="https://reactrouter.com/_brand/react-router-mark-color-inverted.svg"
             className="hover:scale-105 transition-all md:w-32 w-20 hover:drop-shadow-lg"
             alt="Vite logo"
           />
@@ -50,10 +47,7 @@ const Home = () => {
           <br />
           Minimal Starter code for Vite + React + TailwindCSS + React Router
         </p>
-        <Link
-          to="/about"
-          className="p-2 bg-purple-600 mt-2 rounded-md hover:opacity-80 active:scale-95"
-        >
+        <Link to="/about" className="btn btn-primary">
           About
         </Link>
       </div>
