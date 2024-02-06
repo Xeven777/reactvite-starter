@@ -1,10 +1,12 @@
-# Vroom+ Starter Template
+# Vroom+ : Starter Template for Building Web Apps with ❤️
 
 Vroom+ is a minimal, yet powerful starter template for building web applications using Vite, React, Tailwind CSS, React Router, and Daisy UI. It's optimized for speed, developer experience, and SEO.
 
-## Features
+![https://imgur.com/83qlqmN.png](https://imgur.com/83qlqmNl.png)
 
-- **Vite**: Enjoy a lightning-fast development experience with Vite's out-of-the-box Hot Module Replacement (HMR).
+## Features ✨
+
+- **Vite ⚡**: Enjoy a lightning-fast development experience with Vite's out-of-the-box Hot Module Replacement (HMR).
 - **React**: Build your UI with the latest version of React.
 - **Tailwind CSS**: Style your application with utility-first CSS framework Tailwind CSS.
 - **React Router**: Implement routing in your application with React Router v6.
@@ -47,7 +49,8 @@ Follow these steps to get the project up and running:
    npm run dev
    ```
 
-Now, you should be able to see the application running at `localhost:5173` in your web browser.
+Now, you should be able to see the application running at `localhost:5173` in your web browser! ✨
+
 #### You can also download the code as Zip or use it as a template.
 
 ## Project Structure
