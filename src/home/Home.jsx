@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import viteLogo from "/vite.svg";
-
+import { DiAtom } from "react-icons/di";
 const Home = () => {
   return (
     <div className="flex text-center items-center gap-6 flex-col min-h-screen">
@@ -39,16 +39,17 @@ const Home = () => {
         </a>
       </div>
       <h1 className="text-3xl max-w-md md:text-6xl font-semibold tracking-tight">
-        Vite + React
+        Vroom+
       </h1>
       <div className="text-md flex gap-2 flex-col items-center">
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
           <br />
-          Minimal Starter code for Vite + React + TailwindCSS + React Router
+          Minimal Starter code for Vite + React + TailwindCSS + React Router +
+          Daisy UI
         </p>
         <Link to="/about" className="btn btn-primary">
-          About
+          About <DiAtom />
         </Link>
       </div>
     </div>
