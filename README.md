@@ -32,6 +32,7 @@ Follow these steps to get the project up and running:
    Navigate to the new `reactvite-starter` directory and run the following commands:
 
    ```sh
+   cd reactvite-starter
    rm -rf .git
    git init
    ```
